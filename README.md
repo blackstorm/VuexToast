@@ -1,3 +1,4 @@
 # VuexToast
-VuexToast
-user Vuex and Vue Toast component
+Vuex Toast component
+# How to use ?
+store.actions.showToast('message', 'className')
